@@ -8,7 +8,7 @@
 
 개발환경 : Unity / VisualStudio 2019
 
-라이센스 : Unity 2019.4.22 personal 
+라이센스 : MIT
 
 게임기능 설명
 - 시작화면에서 마우스 버튼 클릭으로 게임이 시작.
